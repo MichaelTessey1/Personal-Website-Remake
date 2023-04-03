@@ -564,9 +564,11 @@ body {
 	margin-top: 0;
 }
 
+
+
 .description {
 	max-width: 100%;
-	width: 38em;
+	width: 100%;
 }
 
 .description p {
@@ -631,6 +633,19 @@ body {
 	font-weight: 600;
 	font-family: 'Lato', sans-serif;
 }
+/* =================== Experience =================== */
+#experience {
+	padding: 90px 0 75px;
+	background: #f2f2f2;
+}
+
+.experience-container {
+}
+
+.experience-container h2 {
+	text-align: center;
+}
+
 
 /* 07. SKILLS
 =================================================*/
@@ -643,7 +658,7 @@ body {
 
 #skills {
 	padding: 95px 0 50px;
-	background: #fff;
+	background: #f2f2f2;
 }
 
 #skills h2 {
@@ -702,7 +717,7 @@ body {
 #portfolio {
 	padding-top: 90px;
 	padding-bottom: 90px;
-	background: #f2f2f2;
+	background: #fff;
 }
 
 #port-image .mix {
@@ -1056,8 +1071,8 @@ body {
 =================================================*/
 
 #contact {
-	padding: 95px 0 95px;
-	background: #f2f2f2;
+	padding: 70px 0 70px;
+	background: #fff;
 }
 
 #contact h2 {
@@ -1317,7 +1332,7 @@ fieldset {
 
 #footer {
 	padding: 20px 0 27px;
-	background: #fff;
+	background: #f2f2f2;
 }
 
 #footer-post {
